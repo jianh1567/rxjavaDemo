@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxDemo</string>
+    <string name="test">test rxjava</string>
+</resources>
